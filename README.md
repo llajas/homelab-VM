@@ -1,6 +1,6 @@
 # metal6 Virtual Machine Configuration
 
-This repository contains the configuration files for the metal6 virtual machine, which is part of and heavily reliant on my [homelab](https://github.com/llajas/homelab) setup. The `metal7` VM is designed to function as a virtual Kubernetes node with GPU pass-through capabilities.
+This repository contains the configuration files for the metal6 virtual machine, which is part of and heavily reliant on my [homelab](https://github.com/llajas/homelab) setup. The `metal6` VM is designed to function as a virtual Kubernetes node with GPU pass-through capabilities.
 
 ## Dependencies
 
